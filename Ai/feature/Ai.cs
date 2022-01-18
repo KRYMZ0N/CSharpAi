@@ -9,13 +9,6 @@ namespace Ai
     public class Knowledge
     {
         public List<string> mind = new List<string>();
-        public Knowledge()
-        {
 
-        }
-        ~Knowledge()
-        {
-
-        }
     }
 }
